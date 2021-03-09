@@ -2,4 +2,4 @@ tasks:
   - init: npm install
     command: npm run server
     command: npm run client
-  - command: npm init
+  - command: npm init -y
